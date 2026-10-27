@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "sandevistan:block/clinica_ripperdoc_top",
+    "side": "sandevistan:block/clinica_ripperdoc_side",
+    "bottom": "sandevistan:block/clinica_ripperdoc_bottom"
+  }
+}

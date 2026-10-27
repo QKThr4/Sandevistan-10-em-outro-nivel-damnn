@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "CKC",
+    " F "
+  ],
+  "key": {
+    "C": {
+      "item": "sandevistan:chip"
+    },
+    "K": {
+      "item": "sandevistan:cristal_neural"
+    },
+    "F": {
+      "item": "sandevistan:fibra_sinaptica"
+    }
+  },
+  "result": {
+    "id": "sandevistan:neuralink",
+    "count": 1
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "sandevistan_on": { "sounds": [ { "name": "sandevistan:sandevistan_on", "stream": false } ] },
+  "sandevistan_off": { "sounds": [ { "name": "sandevistan:sandevistan_off", "stream": false } ] },
+  "psy_music_1": { "sounds": [ { "name": "sandevistan:psy_music_1", "stream": true } ] },
+  "psy_snd_1": { "sounds": [ { "name": "sandevistan:psy_snd_1", "stream": false } ] },
+  "psy_snd_2": { "sounds": [ { "name": "sandevistan:psy_snd_2", "stream": false } ] },
+  "alert": { "sounds": [ { "name": "sandevistan:alert", "stream": false } ] },
+  "psy_music_2": { "sounds": [ { "name": "sandevistan:psy_music_2", "stream": true } ] }
+}

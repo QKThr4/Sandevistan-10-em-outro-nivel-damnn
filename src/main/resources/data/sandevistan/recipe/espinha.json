@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "C",
+    "N",
+    "B"
+  ],
+  "key": {
+    "C": {
+      "item": "sandevistan:chip"
+    },
+    "N": {
+      "item": "sandevistan:nucleo"
+    },
+    "B": {
+      "item": "sandevistan:bateria_energia"
+    }
+  },
+  "result": {
+    "id": "sandevistan:espinha",
+    "count": 1
+  }
+}
